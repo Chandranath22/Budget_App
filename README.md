@@ -1,2 +1,2 @@
 # Budget_App
-Weekly budget app
+Weekly budget app using bootstrap
